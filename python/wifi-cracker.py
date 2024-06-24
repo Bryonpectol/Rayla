@@ -26,7 +26,7 @@ def selection():
 
 	if choice == "1":
 		os.system("clear")
-		os.system("rm /rayla/credential-access/access-point-scan-reports/*")
+		os.system("rm -r /rayla/credential-access/access-point-scan-reports/*")
 		print("Scanning Area...")
 		os.system("airodump-ng -w /rayla/credential-access/access-point-scan-reports/rayla-scan-report wlan0")
 		print()
