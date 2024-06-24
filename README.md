@@ -5,5 +5,7 @@ To Install Rayla, click this link here: https://github.com/Bryonpectol/rayla/blo
 !!RUN ALL COMMANDS AS ROOT USER!!
 
 in your terminal, run these commands:
+
 chmod +x /rayla/install-rayla.sh
+
 ./install-rayla.sh
