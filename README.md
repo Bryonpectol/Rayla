@@ -1,6 +1,6 @@
 Welcome to Rayla 1.0
 
-To Install Rayla, click this link here: https://github.com/Bryonpectol/rayla/blob/8297a55dd185e43faa8f18f7797339dcec7ce324/install-rayla.sh
+To Install Rayla, click this link here: https://github.com/Bryonpectol/rayla/blob/42d09387031ea756af96d83a81fae00e82ed1636/install-rayla.sh
 
 !!RUN ALL COMMANDS AS ROOT USER!!
 
