@@ -1,44 +1,44 @@
 #!/bin/bash
 
-mkdir /rayla
+#mkdir /rayla
 
-mkdir /rayla/python
+#mkdir /rayla/python
 
-mkdir /rayla/reconnassiance
+#mkdir /rayla/reconnassiance
 
-mkdir /rayla/resource-development
+#mkdir /rayla/resource-development
 
-mkdir /rayla/initial-access
+#mkdir /rayla/initial-access
 
-mkdir /rayla/execution
+#mkdir /rayla/execution
 
-mkdir /rayla/persistence
+#mkdir /rayla/persistence
 
-mkdir /rayla/privilege-escalation
+#mkdir /rayla/privilege-escalation
 
-mkdir /rayla/defense-evasion
+#mkdir /rayla/defense-evasion
 
-mkdir /rayla/credential-access
+#mkdir /rayla/credential-access
 
-mkdir /rayla/discovery
+#mkdir /rayla/discovery
 
-mkdir /rayla/lateral-movement
+#mkdir /rayla/lateral-movement
 
-mkdir /rayla/collection
+#mkdir /rayla/collection
 
-mkdir /rayla/command-control
+#mkdir /rayla/command-control
 
-mkdir /rayla/exfiltration
+#mkdir /rayla/exfiltration
 
-mkdir /rayla/impact
+#mkdir /rayla/impact
 
-mkdir /rayla/credential-access/access-point-scan-reporst
+#mkdir /rayla/credential-access/access-point-scan-reporst
 
-mkdir /rayla/credential-access/cracked-wifi-passwords
+#mkdir /rayla/credential-access/cracked-wifi-passwords
 
-mkdir /rayla/credential-access/focused-scan-reports
+#mkdir /rayla/credential-access/focused-scan-reports
 
-mkdir /rayla/credential-access/targeted-access-point
+#mkdir /rayla/credential-access/targeted-access-point
 
 pip install python-nmap
 
