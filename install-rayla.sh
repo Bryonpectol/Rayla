@@ -45,3 +45,5 @@ pip install python-nmap
 cd /
 
 git clone https://github.com/Bryonpectol/rayla.git
+
+echo "alias rayla='python3 /rayla/python/rayla.py'" > ~/.bashrc
