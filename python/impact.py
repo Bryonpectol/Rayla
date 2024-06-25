@@ -20,3 +20,9 @@ print("░▐██████▌╬░▒▒▒▒▒▒▒▒")
 print()
 
 choice = input("Please choose one of the options above ↑ ")
+
+print()
+
+input("The Rayla Impact Framework is under construction... Press enter to return to the menu")
+
+os.system("python3 /rayla/python/rayla.py")
